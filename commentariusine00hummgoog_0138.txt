@@ -1,0 +1,6 @@
+EX AEGYPTO IN SINAl
+
+fix 12,37-23,33
+
+ 
+
